@@ -14,8 +14,10 @@ Windows 10 and above
 
 1 Install the required version
 
-2 ```Bash
+2 Clone the repository
+  ```bash
   git clone https://github.com/<your-username>/Procedural-dungeon-level-generator-using-DFS.git
   cd Procedural-dungeon-level-generator-using-DFS
+  ```
 
 3 In Unity Hub locate the project and then run it 
